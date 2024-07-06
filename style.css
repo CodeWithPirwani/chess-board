@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+.lightg{
+    display: inline-block;
+    width: 12vw;
+    height: 24.1vh;
+    background-color: rgb(203, 240, 144);
+    margin: 0;
+}
+.darkgreen{
+    display: inline-block;
+    width: 12vw;
+    height: 24vh;
+    background-color: rgb(4, 142, 4);
+    margin: 0;
+}
+.black{
+    font-size: 7.2em;
+    text-align: center;
+    align-content: center; 
+    color: rgb(52, 50, 50);
+    text-shadow: 3px 3px 0px black, 3px 3px 0px #000000;
+}
+.white{
+    font-size: 7.2em;
+    text-align: center;
+    align-content: center; 
+    color: white;
+    text-shadow: 3px 3px 0px black, 3px 3px 0px #000000;
+}
